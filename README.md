@@ -9,14 +9,14 @@
 - Pasar tiempo con mis seres queridos
 - Escuchar música
 
-Objetivos principales:
+**Objetivos principales:**
 1. Adquirir nuevos conocimientos que me permitan manejarme en el ámbito del programador
 2. Realizar más ciclos o la carrera para centrarme más
 3. Buscar un trabajo
 
 
 
-|Lenguaje|Nivel|
+|**Lenguaje**|**Nivel**|
 |--------|-----|
 |HTML    |Medio|
 |JAVA    |Básico|
