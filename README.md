@@ -1,4 +1,4 @@
-# **Hola, mi nombre es Omar**
+# **Hola, mi nombre es Omar, estudiante de primer año de DAW (Desarrollo de aplicaciones web)**
 ## Me considero un joven aplicado, siempre buscando aprender y mejorar en mis estudios. Me considero simpático, lo que me permite conectar con facilidad con los demás. Tengo habilidades de comunicación que me ayudan a gestionar problemas y encontrar soluciones efectivas. Me gusta trabajar en equipo y colaborar para lograr objetivos comunes.
 
 **Mis aficiones:
@@ -7,16 +7,14 @@
   - El fútbol
   - El atletismo
 - Pasar tiempo con mis seres queridos
--Escuchar música
+- Escuchar música
 
-Lista numerada:
-1. Paso uno
-2. Paso dos
+Objetivos principales:
+1. Adquirir nuevos conocimientos que me permitan manejarme en el ámbito del programador
+2. Realizar más ciclos o la carrera para centrarme más
+3. Buscar un trabajo
 
-```bash
-git add .
-git push origin rain
-```
+
 
 |Lenguaje|Nivel|
 |--------|-----|
@@ -30,11 +28,6 @@ git push origin rain
 
 <!--comentario-->
 
-> Inserción de imagen
-
-<p> 
-  <img src="‎JesusVallejo.png" >
-  </p>
 
 
 [Canal de MiduDev](https://www.youtube.com/@midulive)
