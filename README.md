@@ -29,6 +29,6 @@ checkboxes
 
 > Inserción de imagen
 
-<p align=left>
+<p> 
   <img src="‎e9e16baa-8658-484e-b204-df4e48c421e6.png">
 </p>
