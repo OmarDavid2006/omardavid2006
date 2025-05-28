@@ -9,7 +9,7 @@
 - Pasar tiempo con mis seres queridos
 - Escuchar música
 <p>
-  <img src="wp7250087.webp">
+  <img src="Futbol.jpg">
 </p>
 
 **Objetivos principales:**
