@@ -1,11 +1,13 @@
 # **Hola, mi nombre es Omar**
-## Me considero una persona curiosa con ganas de adquirir nuevos conocimientos, muy trabajador, con una gran capacidad de elaborar trabajos en equipo debido a que me considero una persona extrovertida y sin problemas a la hora de comunicarme.
-Lista:
-- Elemento1
-- Elemento2
-- Elemento3
-  - Sub-elemento1
-  - sub-elemento2
+## Me considero un joven aplicado, siempre buscando aprender y mejorar en mis estudios. Me considero simpático, lo que me permite conectar con facilidad con los demás. Tengo habilidades de comunicación que me ayudan a gestionar problemas y encontrar soluciones efectivas. Me gusta trabajar en equipo y colaborar para lograr objetivos comunes.
+
+**Mis aficiones:
+- Los videojuegos
+- El deporte, pero sobre todo:
+  - El fútbol
+  - El atletismo
+- Pasar tiempo con mis seres queridos
+-Escuchar música
 
 Lista numerada:
 1. Paso uno
@@ -18,7 +20,7 @@ git push origin rain
 
 |Lenguaje|Nivel|
 |--------|-----|
-|HTML    |Básico|
+|HTML    |Medio|
 |JAVA    |Básico|
 
 
