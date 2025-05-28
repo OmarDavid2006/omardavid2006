@@ -8,6 +8,7 @@
   - El atletismo
 - Pasar tiempo con mis seres queridos
 - Escuchar música
+- Ver series
 <p>
   <img src="Futbol.jpg">
 </p>
