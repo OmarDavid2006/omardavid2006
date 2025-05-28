@@ -21,16 +21,20 @@
 |HTML    |Medio|
 |JAVA    |Básico|
 
-
-¿Considera que necesito añadir más datos sobre mi?
-- [ ] si
-- [ ] no
+|**Idiomas**|**Nivel**|
+|--------|-----|
+|Español    |Avanzado|
+|Inglés    |Básico|
+|Francés    |Básico|
 
 <!--comentario-->
 <p>
   <img src="wp7250087.webp">
 </p>
 
+¿Considera que necesito añadir más datos sobre mi?
+- [ ] si
+- [ ] no
 
 [Canal de MiduDev](https://www.youtube.com/@midulive)
 
