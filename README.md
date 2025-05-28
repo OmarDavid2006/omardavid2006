@@ -27,3 +27,5 @@ checkboxes
 
 <!--comentario-->
 
+> Inserción de imagen
+![Descripción de la imagen]
