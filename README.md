@@ -1,7 +1,7 @@
 # **Hola, mi nombre es Omar, estudiante de primer año de DAW (Desarrollo de aplicaciones web)**
 ## Me considero un joven aplicado, siempre buscando aprender y mejorar en mis estudios. Me considero simpático, lo que me permite conectar con facilidad con los demás. Tengo habilidades de comunicación que me ayudan a gestionar problemas y encontrar soluciones efectivas. Me gusta trabajar en equipo y colaborar para lograr objetivos comunes.
 
-**Mis aficiones:
+**Mis aficiones:**
 - Los videojuegos
 - El deporte, pero sobre todo:
   - El fútbol
