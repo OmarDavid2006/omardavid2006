@@ -8,6 +8,9 @@
   - El atletismo
 - Pasar tiempo con mis seres queridos
 - Escuchar música
+<p>
+  <img src="wp7250087.webp">
+</p>
 
 **Objetivos principales:**
 1. Adquirir nuevos conocimientos que me permitan manejarme en el ámbito del programador
