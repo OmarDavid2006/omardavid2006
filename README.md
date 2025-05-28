@@ -30,5 +30,5 @@ checkboxes
 > Inserción de imagen
 
 <p> 
-  <img src="‎JesusVallejo.jpg" >
+  <img src="‎JesusVallejo.png" >
 </p>
