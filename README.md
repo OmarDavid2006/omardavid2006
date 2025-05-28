@@ -19,9 +19,10 @@ git push origin rain
 |Lenguaje|Nivel|
 |--------|-----|
 |HTML    |Básico|
+|JAVA    |Básico|
 
-checkboxes
 
+¿Considera que necesito añadir más datos sobre mi?
 - [ ] si
 - [ ] no
 
