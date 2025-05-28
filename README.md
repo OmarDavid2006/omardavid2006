@@ -1,16 +1,29 @@
-## Hi there 👋
+# **Hola, mi nombre es Omar**
+## Me considero una persona curiosa con ganas de adquirir nuevos conocimientos, muy trabajador, con una gran capacidad de elaborar trabajos en equipo debido a que me considero una persona extrovertida.
+Lista:
+- Elemento1
+- Elemento2
+- Elemento3
+  - Sub-elemento1
+  - sub-elemento2
 
-<!--
-**OmarDavid2006/omardavid2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lista numerada:
+1. Paso uno
+2. Paso dos
 
-Here are some ideas to get you started:
+```bash
+git add .
+git push origin rain
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|Lenguaje|Nivel|
+|--------|-----|
+|HTML    |Básico|
+
+checkboxes
+
+- [ ] si
+- [ ] no
+
+<!--comentario-->
+
