@@ -28,4 +28,6 @@ checkboxes
 <!--comentario-->
 
 > Inserción de imagen
-![Descripción de la imagen]
+
+<p align=left>
+  <img src=""
